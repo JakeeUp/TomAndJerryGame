@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Enemy
+  - Jerry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1486301539
+    locked: 0
+  - name: Background
+    uniqueID: 3555070387
+    locked: 0
+  - name: Buildings
+    uniqueID: 3347020075
+    locked: 0
+  - name: Entity2
+    uniqueID: 1600251249
+    locked: 0
+  - name: Grass
+    uniqueID: 1948386005
+    locked: 0
+  - name: Entity
+    uniqueID: 2412661723
+    locked: 0
+  - name: Foreground
+    uniqueID: 651824825
+    locked: 0
